@@ -1,0 +1,26 @@
+{
+  "name": "DRAGON-host-security",
+  "version": "3.0.0",
+  "description": "AlliFF Host - منصة أمن سيبراني متكاملة",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod",
+    "build": "echo 'Static site, no build needed'"
+  },
+  "keywords": [
+    "cybersecurity",
+    "darkweb",
+    "security",
+    "pentesting",
+    "network-security"
+  ],
+  "author": "dr",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^34.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
